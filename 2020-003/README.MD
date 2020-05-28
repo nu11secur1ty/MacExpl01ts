@@ -1,7 +1,7 @@
 # About the security content of macOS Catalina 10.15.5, Security Update 2020-003 Mojave, Security Update 2020-003 High Sierra
 This document describes the security content of macOS Catalina 10.15.5, Security Update 2020-003 Mojave, Security Update 2020-003 High Sierra.
 
-About Apple security updates
+# About Apple security updates
 For our customers' protection, Apple doesn't disclose, discuss, or confirm security issues until an investigation has occurred and patches or releases are available. Recent releases are listed on the Apple security updates page.
 
 Apple security documents reference vulnerabilities by CVE-ID when possible.
@@ -10,10 +10,10 @@ For more information about security, see the Apple Product Security page.
 
 
 
-macOS Catalina 10.15.5, Security Update 2020-003 Mojave, Security Update 2020-003 High Sierra
+# macOS Catalina 10.15.5, Security Update 2020-003 Mojave, Security Update 2020-003 High Sierra
 Released May 26, 2020
 
-Accounts
+- - - Accounts
 
 Available for: macOS Catalina 10.15.4
 
@@ -23,7 +23,7 @@ Description: A denial of service issue was addressed with improved input validat
 
 CVE-2020-9827: Jannik Lorenz of SEEMOO @ TU Darmstadt
 
-Accounts
+- - - Accounts
 
 Available for: macOS Mojave 10.14.6, macOS High Sierra 10.13.6
 
@@ -33,7 +33,7 @@ Description: A logic issue was addressed with improved restrictions.
 
 CVE-2020-9772: Allison Husain of UC Berkeley
 
-AirDrop
+- - - AirDrop
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -43,7 +43,7 @@ Description: A denial of service issue was addressed with improved input validat
 
 CVE-2020-9826: Dor Hadad of Palo Alto Networks
 
-AppleMobileFileIntegrity
+- - - AppleMobileFileIntegrity
 
 Available for: macOS High Sierra 10.13.6, macOS Catalina 10.15.4
 
@@ -53,7 +53,7 @@ Description: An entitlement parsing issue was addressed with improved parsing.
 
 CVE-2020-9842: Linus Henze (pinauten.de)
 
-AppleUSBNetworking
+- - - AppleUSBNetworking
 
 Available for: macOS Catalina 10.15.4
 
@@ -63,7 +63,7 @@ Description: A logic issue was addressed with improved restrictions.
 
 CVE-2020-9804: Andy Davis of NCC Group
 
-Audio
+- - - Audio
 
 Available for: macOS Catalina 10.15.4
 
@@ -73,7 +73,7 @@ Description: An out-of-bounds read was addressed with improved bounds checking.
 
 CVE-2020-9815: Yu Zhou (@yuzhou6666) working with Trend Micro Zero Day Initiative
 
-Audio
+- - - Audio
 
 Available for: macOS Catalina 10.15.4
 
@@ -83,7 +83,7 @@ Description: An out-of-bounds read was addressed with improved input validation.
 
 CVE-2020-9791: Yu Zhou (@yuzhou6666) working with Trend Micro Zero Day Initiative
 
-Bluetooth
+- - - Bluetooth
 
 Available for: macOS Catalina 10.15.4
 
@@ -93,7 +93,7 @@ Description: An out-of-bounds read was addressed with improved bounds checking.
 
 CVE-2020-9831: Yu Wang of Didi Research America
 
-Calendar
+- - - Calendar
 
 Available for: macOS Catalina 10.15.4
 
@@ -103,7 +103,7 @@ Description: This issue was addressed with improved checks.
 
 CVE-2020-3882: Andy Grant of NCC Group
 
-CoreBluetooth
+- - - CoreBluetooth
 
 Available for: macOS Mojave 10.14.6, macOS High Sierra 10.13.6
 
@@ -113,7 +113,7 @@ Description: An out-of-bounds read was addressed with improved input validation.
 
 CVE-2020-9828: Jianjun Dai of Qihoo 360 Alpha Lab
 
-CVMS
+- - - CVMS
 
 Available for: macOS Catalina 10.15.4
 
@@ -123,7 +123,7 @@ Description: This issue was addressed with improved checks.
 
 CVE-2020-9856: @jinmo123, @setuid0x0_, and @insu_yun_en of @SSLab_Gatech working with Trend Micro’s Zero Day Initiative
 
-DiskArbitration
+- - - DiskArbitration
 
 Available for: macOS Mojave 10.14.6, macOS High Sierra 10.13.6, macOS Catalina 10.15.4
 
@@ -133,7 +133,7 @@ Description: An out-of-bounds read was addressed with improved bounds checking.
 
 CVE-2020-9847: Zhuo Liang of Qihoo 360 Vulcan Team working with 360 BugCloud (bugcloud.360.cn)
 
-Find My
+- - - Find My
 
 Available for: macOS Catalina 10.15.4
 
@@ -143,7 +143,7 @@ Description: A validation issue existed in the handling of symlinks. This issue 
 
 CVE-2020-9855: Zhongcheng Li(CK01) of Topsec Alpha Team
 
-FontParser
+- - - FontParser
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -153,7 +153,7 @@ Description: An out-of-bounds write issue was addressed with improved bounds che
 
 CVE-2020-9816:  Peter Nguyen Vu Hoang of STAR Labs working with Trend Micro Zero Day Initiative
 
-ImageIO
+- - - ImageIO
 
 Available for: macOS Catalina 10.15.4
 
@@ -163,7 +163,7 @@ Description: An out-of-bounds read was addressed with improved input validation.
 
 CVE-2020-3878: Samuel Groß of Google Project Zero
 
-ImageIO
+- - - ImageIO
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -175,7 +175,7 @@ CVE-2020-9789: Wenchao Li of VARAS@IIE
 
 CVE-2020-9790: Xingwei Lin of Ant-financial Light-Year Security Lab
 
-Intel Graphics Driver
+- - - Intel Graphics Driver
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -185,7 +185,7 @@ Description: An out-of-bounds write issue was addressed with improved bounds che
 
 CVE-2020-9822: ABC Research s.r.o
 
-IPSec
+- - - IPSec
 
 Available for: macOS High Sierra 10.13.6, macOS Catalina 10.15.4
 
@@ -195,7 +195,7 @@ Description: An out-of-bounds read was addressed with improved bounds checking.
 
 CVE-2020-9837: Thijs Alkemade of Computest
 
-Kernel
+- - - Kernel
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -205,7 +205,7 @@ Description: A memory corruption issue was addressed with improved state managem
 
 CVE-2020-9821: Xinru Chi and Tielei Wang of Pangu Lab
 
-Kernel
+- - - Kernel
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -215,7 +215,7 @@ Description: An information disclosure issue was addressed by removing the vulne
 
 CVE-2020-9797: an anonymous researcher
 
-Kernel
+- - - Kernel
 
 Available for: macOS Catalina 10.15.4
 
@@ -225,7 +225,7 @@ Description: An integer overflow was addressed with improved input validation.
 
 CVE-2020-9852: Tao Huang and Tielei Wang of Pangu Lab
 
-Kernel
+- - - Kernel
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -235,7 +235,7 @@ Description: A use after free issue was addressed with improved memory managemen
 
 CVE-2020-9795: Zhuo Liang of Qihoo 360 Vulcan Team
 
-Kernel
+- - - Kernel
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -245,7 +245,7 @@ Description: A memory corruption issue was addressed with improved state managem
 
 CVE-2020-9808: Xinru Chi and Tielei Wang of Pangu Lab
 
-Kernel
+- - - Kernel
 
 Available for: macOS Mojave 10.14.6, macOS High Sierra 10.13.6, macOS Catalina 10.15.4
 
@@ -257,7 +257,7 @@ CVE-2020-9811: Tielei Wang of Pangu Lab
 
 CVE-2020-9812: derrek (@derrekr6)
 
-Kernel
+- - - Kernel
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -269,7 +269,7 @@ CVE-2020-9813: Xinru Chi of Pangu Lab
 
 CVE-2020-9814: Xinru Chi and Tielei Wang of Pangu Lab
 
-Kernel
+- - - Kernel
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -279,7 +279,7 @@ Description: An information disclosure issue was addressed with improved state m
 
 CVE-2020-9809: Benjamin Randazzo (@____benjamin)
 
-ksh
+- - - ksh
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -289,7 +289,7 @@ Description: An issue existed in the handling of environment variables. This iss
 
 CVE-2019-14868
 
-NSURL
+- - - NSURL
 
 Available for: macOS Mojave 10.14.6
 
@@ -299,7 +299,7 @@ Description: An issue existed in the parsing of URLs. This issue was addressed w
 
 CVE-2020-9857: Dlive of Tencent Security Xuanwu Lab
 
-PackageKit
+- - - PackageKit
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -309,7 +309,7 @@ Description: A permissions issue existed. This issue was addressed with improved
 
 CVE-2020-9817: Andy Grant of NCC Group
 
-PackageKit
+- - - PackageKit
 
 Available for: macOS Catalina 10.15.4
 
@@ -319,7 +319,7 @@ Description: An access issue was addressed with improved access restrictions.
 
 CVE-2020-9851: Linus Henze (pinauten.de)
 
-Python
+- - - Python
 
 Available for: macOS Catalina 10.15.4
 
@@ -329,7 +329,7 @@ Description: A memory corruption issue was addressed with improved input validat
 
 CVE-2020-9793
 
-Sandbox
+- - - Sandbox
 
 Available for: macOS Catalina 10.15.4
 
@@ -339,7 +339,7 @@ Description: An access issue was addressed with additional sandbox restrictions.
 
 CVE-2020-9825: Sreejith Krishnan R (@skr0x1C0)
 
-Sandbox
+- - - Sandbox
 
 Available for: macOS Mojave 10.14.6
 
@@ -349,7 +349,7 @@ Description: This issue was addressed with a new entitlement.
 
 CVE-2020-9771: Csaba Fitzl (@theevilbit) of Offensive Security
 
-Security
+- - - Security
 
 Available for: macOS Catalina 10.15.4
 
@@ -359,7 +359,7 @@ Description: A validation issue was addressed with improved input sanitization.
 
 CVE-2020-9788: Wojciech Reguła of SecuRing (https://wojciechregula.blog)
 
-SIP
+- - - SIP
 
 Available for: macOS Catalina 10.15.4
 
@@ -369,7 +369,7 @@ Description: A logic issue was addressed with improved restrictions.
 
 CVE-2020-9824: Csaba Fitzl (@theevilbit) of Offensive Security
 
-SQLite
+- - - SQLite
 
 Available for: macOS Catalina 10.15.4
 
@@ -379,7 +379,7 @@ Description: An out-of-bounds read was addressed with improved bounds checking.
 
 CVE-2020-9794
 
-System Preferences
+- - - System Preferences
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -389,7 +389,7 @@ Description: A race condition was addressed with improved state handling.
 
 CVE-2020-9839: @jinmo123, @setuid0x0_, and @insu_yun_en of @SSLab_Gatech working with Trend Micro’s Zero Day Initiative
 
-USB Audio
+- - - USB Audio
 
 Available for: macOS Catalina 10.15.4
 
@@ -399,7 +399,7 @@ Description: A validation issue was addressed with improved input sanitization.
 
 CVE-2020-9792: Andy Davis of NCC Group
 
-Wi-Fi
+- - - Wi-Fi
 
 Available for: macOS Catalina 10.15.4
 
@@ -409,7 +409,7 @@ Description: A double free issue was addressed with improved memory management.
 
 CVE-2020-9844: Ian Beer of Google Project Zero
 
-Wi-Fi
+- - - Wi-Fi
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -419,7 +419,7 @@ Description: A memory corruption issue was addressed with improved state managem
 
 CVE-2020-9830: Tielei Wang of Pangu Lab
 
-Wi-Fi
+- - - Wi-Fi
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -429,7 +429,7 @@ Description: A memory corruption issue was addressed with improved input validat
 
 CVE-2020-9834: Yu Wang of Didi Research America
 
-Wi-Fi
+- - - Wi-Fi
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -439,7 +439,7 @@ Description: A memory initialization issue was addressed with improved memory ha
 
 CVE-2020-9833: Yu Wang of Didi Research America
 
-Wi-Fi
+- - - Wi-Fi
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -449,7 +449,7 @@ Description: An out-of-bounds read was addressed with improved input validation.
 
 CVE-2020-9832: Yu Wang of Didi Research America
 
-WindowServer
+- - - WindowServer
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -459,7 +459,7 @@ Description: An integer overflow was addressed with improved input validation.
 
 CVE-2020-9841: ABC Research s.r.o. working with Trend Micro Zero Day Initiative
 
-zsh
+- - - zsh
 
 Available for: macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.4
 
@@ -471,39 +471,39 @@ CVE-2019-20044: Sam Foxman
 
 
 
-Additional recognition
-CoreBluetooth
+# Additional recognition
+- - - CoreBluetooth
 
 We would like to acknowledge Maximilian von Tschitschnitz of Technical University Munich and Ludwig Peuckert of Technical University Munich for their assistance.
 
-CoreText
+- - - CoreText
 
 We would like to acknowledge Jiska Classen (@naehrdine) and Dennis Heinze (@ttdennis) of Secure Mobile Networking Lab for their assistance.
 
-Endpoint Security
+- - - Endpoint Security
 
 We would like to acknowledge an anonymous researcher for their assistance.
 
-ImageIO
+- - - ImageIO
 
 We would like to acknowledge Lei Sun for their assistance.
 
-IOHIDFamily
+- - - IOHIDFamily
 
 We would like to acknowledge Andy Davis of NCC Group for their assistance.
 
-IPSec
+- - - IPSec
 
 We would like to acknowledge Thijs Alkemade of Computest for their assistance.
 
-Login Window
+- - - Login Window
 
 We would like to acknowledge Jon Morby and an anonymous researcher for their assistance.
 
-Sandbox
+- - - Sandbox
 
 We would like to acknowledge Jason L Lang of Optum for their assistance.
 
-Spotlight
+- - - Spotlight
 
 We would like to acknowledge Csaba Fitzl (@theevilbit) of Offensive Security for their assistance.
